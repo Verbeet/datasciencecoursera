@@ -2,4 +2,4 @@ datasciencecoursera
 ===================
 
 Coursera assignment week 3
-## Thi is a markdown file
+## This is a markdown file
